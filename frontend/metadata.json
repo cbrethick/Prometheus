@@ -1,0 +1,8 @@
+{
+  "name": "SEC_ALPHA // NEURAL_SHIELD",
+  "description": "Advanced AI-powered cyber-security monitoring and threat prevention dashboard with high-density technical readouts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
